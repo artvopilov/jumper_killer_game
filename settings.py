@@ -1,0 +1,1 @@
+SIZE = (WIDTH, HEIGHT) = (640, 530)
